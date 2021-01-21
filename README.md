@@ -17,11 +17,14 @@ You need to have either the .exe or the .py file in the same directory as the fo
 I am not condoning the use of doing this and spamming discord servers
 Only do this on discord servers where you have permission
 Mango is not responsible if you get caught/punished in anyway
-
-Freely, this is under the Unlicense.
-so take that warning as a word of advice
+These have not been tested on all operating systems
+The only tested operating system is Windows 10
+It is likely other versions and some other OS's will work
 
 #LICENSE
+
+Freely, this is under the Unlicense.
+so take that previous warning as a word of advice
 
 This is free and unencumbered software released into the public domain.
 
