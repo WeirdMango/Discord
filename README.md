@@ -11,6 +11,7 @@ To get the channel id you want to scroll up on the original place where you foun
 
 # EXCEPTIONS
 The one listed in the github and the one in the release are seperate, the one in the github needs it's settings to be set directly in the code, however the one in the release requires input and is an exe as it does not require the code to be changed.
+You need to have either the .exe or the .py file in the same directory as the folder you want to use for the script
 
 # WARNING
 I am not condoning the use of doing this and spamming discord servers
