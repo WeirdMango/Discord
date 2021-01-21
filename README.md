@@ -9,6 +9,9 @@ and now paste it in where the code asks for authorization!
 ***NEVER GIVE YOUR TOKEN TO ANYBODY***
 To get the channel id you want to scroll up on the original place where you found the token and you should see a request url, copy that url and paste it in!
 
+# EXCEPTIONS
+The one listed in the github and the one in the release are seperate, the one in the github needs it's settings to be set directly in the code, however the one in the release requires input and is an exe as it does not require the code to be changed.
+
 # WARNING
 I am not condoning the use of doing this and spamming discord servers
 Only do this on discord servers where you have permission
