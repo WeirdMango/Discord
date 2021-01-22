@@ -8,7 +8,6 @@ url = input("Please put the url of the server\n")
 if script == 'N' or 'n':
     script = "Script.txt"
 while True:
-    time.sleep(6)
     now = datetime.now()
     f = open(script, 'r')
     for word in f:
