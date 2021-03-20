@@ -3,23 +3,28 @@ A Simple way to send messages to discord servers in a timed manner
 
 # HOW TO
 **To Get the token for your account,** Open inspect elements, (CTRL+SHIFT+I OR RIGHT CLICK AND SELECT INSPECT ELEMENTS). and go to the network tab (on the top).
+<br />
 Now you want to send a message with the network tab open, you should see something appear. It should be named "messages"
+<br />
 Scroll down till you see a bold "**REQUEST HEADERS**" keep an eye because inside the request headers there is a header called "authorization" you need to copy the string after the "authorization" 
+<br />
 and now paste it in where the code asks for authorization!
+<br />
 ***NEVER GIVE YOUR TOKEN TO ANYBODY***
+<br />
 To get the channel id you want to scroll up on the original place where you found the token and you should see a request url, copy that url and paste it in!
 
+<br />
+
 # EXCEPTIONS
-The one listed in the github and the one in the release are seperate, the one in the github needs it's settings to be set directly in the code, however the one in the release requires input and is an exe as it does not require the code to be changed.
+The one listed in the github and the one in the release are seperate, the one in the github needs it's settings to be set directly in the code, however the one in the release 
+<br />
+requires input and is an exe as it does not require the code to be changed.
+<br />
 You need to have either the .exe or the .py file in the same directory as the folder you want to use for the script
 
 # WARNING
-I am not condoning the use of doing this and spamming discord servers
-Only do this on discord servers where you have permission
-Mango is not responsible if you get caught/punished in anyway
-These have not been tested on all operating systems
-The only tested operating system is Windows 10
-It is likely other versions and some other OS's will work
+I DO NOT CONDONE HARMFUL USE OF THIS, USE AT YOUR OWN RISK!
 
 # LICENSE
 
