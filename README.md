@@ -2,19 +2,25 @@
 A Simple way to send messages to discord servers in a timed manner
 
 # HOW TO
-**Install the Needed modules by going into the path with the terminal and then doing "pip install -r requirements.txt"**
+Go to https://github.com/mangoess/DiscordSpama/releases , Download the latest release!
 <br />
-**To Get the token for your account,** Open inspect elements, (CTRL+SHIFT+I OR RIGHT CLICK AND SELECT INSPECT ELEMENTS). and go to the network tab (on the top).
+Find your token, (You could use this video, https://www.youtube.com/watch?v=YEgFvgg7ZPI)
 <br />
-Now you want to send a message with the network tab open, you should see something appear. It should be named "messages"
+Insert all fields
 <br />
-Scroll down till you see a bold "**REQUEST HEADERS**" keep an eye because inside the request headers there is a header called "authorization" you need to copy the string after the "authorization" 
+Also, to get your Server URL, on your discord web app, go to a friends direct message, right click and then press inspect elements.
 <br />
-and now paste it in where the code asks for authorization!
+From there you should see stuff like ![this](https://user-images.githubusercontent.com/69760274/111881133-94eda980-89c8-11eb-9131-38546309b01b.png)
 <br />
-***NEVER GIVE YOUR TOKEN TO ANYBODY***
+If you see on the top, you need to click the "Network" Tab.
 <br />
-To get the channel id you want to scroll up on the original place where you found the token and you should see a request url, copy that url and paste it in!
+Once you're there, send a message to your friend, and you should see something pop up, it should look like ![this](https://user-images.githubusercontent.com/69760274/111881173-cb2b2900-89c8-11eb-9956-1189663ef7ba.png), The one you want to click on is called "messages"
+<br />
+You should see at the very top, Something called Request URL: ( ![Reference Image](https://user-images.githubusercontent.com/69760274/111881231-fca3f480-89c8-11eb-8f25-b3551836dd92.png) )
+<br />
+Where the Request URL is at, copy everything begging from the "h" all the end to the "s", put that in the program and then click submit (if the messages aren't appearing, Click it again.)
+<br />
+
 
 <br />
 
