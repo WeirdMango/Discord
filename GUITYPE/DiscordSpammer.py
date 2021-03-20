@@ -2,7 +2,7 @@ import requests
 import time
 import PySimpleGUI as sg
 
-sg.theme('DarkAmber')  # No gray windows please!
+sg.theme('DarkAmber')
 
 # STEP 1 define the layout
 layout = [ 
@@ -13,19 +13,18 @@ layout = [
             [sg.Submit(), sg.Button('Exit Now')]
          ]
 
-#STEP 2 - create the window
 window = sg.Window('Discord Spamma!', layout, grab_anywhere=True)
 
 event, values = window.read()
 
 # STEP3 - the event loop
 while True:
-    event, values = window.read()   # Read the event that happened and the values dictionary
+    event, values = window.read()
     print(event, values)
     firstValue = [(values[0] ) ]
     secondValue = [(values[1] ) ]
     thirdValue = [(values[2] ) ]
-    if event == sg.WIN_CLOSED or event == 'Exit Now':# If user closed window with X or if user clicked "Exit" button then exit
+    if event == sg.WIN_CLOSED or event == 'Exit Now':
                  break
     else:
         if event == 'Submit':
