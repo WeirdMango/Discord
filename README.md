@@ -2,6 +2,8 @@
 A Simple way to send messages to discord servers in a timed manner
 
 # HOW TO
+**Install the Needed modules by going into the path with the terminal and then doing "pip install -r requirements.txt"**
+<br />
 **To Get the token for your account,** Open inspect elements, (CTRL+SHIFT+I OR RIGHT CLICK AND SELECT INSPECT ELEMENTS). and go to the network tab (on the top).
 <br />
 Now you want to send a message with the network tab open, you should see something appear. It should be named "messages"
