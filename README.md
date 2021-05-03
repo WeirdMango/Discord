@@ -2,7 +2,7 @@
 Send Lyrics of songs to anyone you desire
 
 # NOTICE
-Do not, and I repeat **Do Not** fork this project, this program is restricted by Discord TOS, **USE AT YOUR OWN RISK**
+Do not, and I repeat **Do Not** fork this project for malicious reasons, this program is prohibited by the Discord TOS, **USE AT YOUR OWN RISK**
 Do not claim this project as your own, or else I'll take action.
 The Know License will be changed massively, updating terms and such!
 
