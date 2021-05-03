@@ -1,4 +1,4 @@
-This work is under the 'NO LICENSE'
+This work is under the 'KNOW LICENSE'
 
 You are not allowed to use this in any circumstance without written permission from mangoess.
 If you do use this without my permission, you are responsible for any misdemeanors that you have caused with my code.
