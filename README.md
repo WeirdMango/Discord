@@ -1,5 +1,5 @@
 # Discord
-A Simple way to send messages to discord servers in a timed manner
+Send Lyrics of songs to anyone you desire
 
 # NOTICE
 Do not, and I repeat **Do Not** fork this project, this program is restricted by Discord TOS, **USE AT YOUR OWN RISK**
