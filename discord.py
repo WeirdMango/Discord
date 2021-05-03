@@ -14,4 +14,3 @@ while True:
         r = requests.post("https://discord.com/api/v8/channels/(INSERT CHANNELID)/messages",
                           data=payload, headers=header)
         time.sleep(6)
-# https://discord.com/api/v8/channels/796057030417842176/messages
