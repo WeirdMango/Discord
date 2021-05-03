@@ -1,3 +1,5 @@
+# THIS WORK IS UNDER THE NO LICENSE
+
 import requests
 import time
 while True:
