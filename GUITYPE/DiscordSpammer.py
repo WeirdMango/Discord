@@ -4,7 +4,7 @@ import PySimpleGUI as sg
 
 sg.theme('DarkAmber')
 
-# STEP 1 define the layout
+# THE LAYOUT OF THE GUI
 layout = [ 
             [sg.Text('Please Enter The Required Details!')],
             [sg.Text('Name Of Script File', size =(15, 1)), sg.InputText()],
@@ -17,7 +17,8 @@ window = sg.Window('Discord Spamma!', layout, grab_anywhere=True)
 
 event, values = window.read()
 
-# STEP3 - the event loop
+# The actual code?
+
 while True:
     event, values = window.read()
     print(event, values)
