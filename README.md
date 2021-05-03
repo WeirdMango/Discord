@@ -1,6 +1,11 @@
 # Discord
 A Simple way to send messages to discord servers in a timed manner
 
+# NOTICE
+Do not, and I repeat **Do Not** fork this project, this program is restricted by Discord TOS, **USE AT YOUR OWN RISK**
+Do not claim this project as your own, or else I'll take action.
+The Know License will be changed massively, updating terms and such!
+
 # HOW TO
 Go to https://github.com/mangoess/DiscordSpama/releases , Download the latest release!
 <br />
@@ -36,6 +41,6 @@ I DO NOT CONDONE HARMFUL USE OF THIS, USE AT YOUR OWN RISK!
 
 # LICENSE
 
-This work is under the 'NO LICENSE'
+This work is under the 'KNOW LICENSE'
 
 You are not allowed to use this in any circumstance without written permission from mangoess. If you do use this without my permission, you are responsible for any misdemeanors that you have caused with my code. I am not responsible for any damage or trouble if you use this project without my written consent. You aren't allowed to use this for private, public or any type of use. You can't trademark, patent or claim this project is yours. You are not allowed to take a chunk of code without my written consent. This is pretty to view, don't use this, at all. I will as I like, report in any way if you are using my work.
