@@ -5,7 +5,6 @@ import time
 while True:
     f = open("Script.txt", 'r')
     for word in f:
-        time.sleep(0.50)
         payload = {
             'content': word
             }
