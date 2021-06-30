@@ -13,7 +13,7 @@ layout = [
             [sg.Submit(), sg.Button('Exit Now')]
          ]
 
-window = sg.Window('Discord Spama', layout, grab_anywhere=True)
+window = sg.Window('Discord Spammaa', layout, grab_anywhere=True)
 
 event, values = window.read()
 
