@@ -17,4 +17,4 @@ while True:
                           data=payload, headers=header)
         print(word)
         time.sleep(1.6)
-# https://discord.com/api/v8/channels/796057030417842176/messages
+
