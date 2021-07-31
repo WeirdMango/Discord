@@ -10,25 +10,7 @@ Read how to use this project with the **Know License**
 # HOW TO
 Go to https://github.com/mangoess/DiscordSpama/releases , Download the latest release!
 <br />
-Find your token, (You could use this video, https://www.youtube.com/watch?v=YEgFvgg7ZPI)
-<br />
-Insert all fields
-<br />
-Also, to get your Server URL, on your discord web app, go to a friends direct message, right click and then press inspect elements.
-<br />
-From there you should see stuff like ![this](https://user-images.githubusercontent.com/69760274/111881133-94eda980-89c8-11eb-9131-38546309b01b.png)
-<br />
-If you see on the top, you need to click the "Network" Tab.
-<br />
-Once you're there, send a message to your friend, and you should see something pop up, it should look like ![this](https://user-images.githubusercontent.com/69760274/111881173-cb2b2900-89c8-11eb-9956-1189663ef7ba.png), The one you want to click on is called "messages"
-<br />
-You should see at the very top, Something called Request URL: ( ![Reference Image](https://user-images.githubusercontent.com/69760274/111881231-fca3f480-89c8-11eb-8f25-b3551836dd92.png) )
-<br />
-Where the Request URL is at, copy everything begging from the "h" all the end to the "s", put that in the program and then click submit (if the messages aren't appearing, Click it again.)
-<br />
-
-
-<br />
+Find your token, (You could use this video, https://www.youtube.com/watch?v=YEgFvgg7ZPI), Input the server ID and you're all set to go!
 
 # EXCEPTIONS
 The one listed in the github and the one in the release are seperate, the one in the github needs it's settings to be set directly in the code, however the one in the release 
